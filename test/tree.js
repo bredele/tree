@@ -7,7 +7,7 @@ var tree = require('..')
 
 test('should convert an array into a tree', assert => {
   assert.plan(1)
-  assert.deepEqual(['root', 'male', 'canada'], {
+  assert.deepEqual(tree(['root', 'male', 'canada']), {
     name: 'root',
     children : [
       {
