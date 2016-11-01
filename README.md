@@ -2,7 +2,7 @@
 
   [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
 
-A tree is an arborescence representation in which two nodes are connected by exactly one path (or leave). This module converts an array of path into a unique object tree representation.
+A tree is an arborescence representation in which two nodes are connected by exactly one path (or leave). This module is a simple function that converts an array of path into a unique object tree representation.
 
 ```js
 // array representation
