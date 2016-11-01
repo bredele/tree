@@ -1,6 +1,7 @@
 # Tree
 
-  [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
+[![Build Status](https://travis-ci.org/bredele/tree.svg?branch=master)](https://travis-ci.org/bredele/tree)
+[![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
 
 A tree is an arborescence representation in which two nodes are connected by exactly one path (or leave). This module is a simple function that converts an array of path into a unique object tree representation.
 
@@ -52,7 +53,6 @@ npm install bredele/tree --save
 
 For questions and feedback please use our [twitter account](https://twitter.com/bredeleca). For support, bug reports and or feature requests please make sure to read our
 <a href="https://github.com/bredele/contributing-guide/blob/master/community.md" target="_blank">community guideline</a> and use the issue list of this repo and make sure it's not present yet in our reporting checklist.
-
 
 ## Contribution
 
