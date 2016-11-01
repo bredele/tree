@@ -20,7 +20,7 @@ A tree is an arborescence representation in which two nodes are connected by exa
 }
 ```
 
-Please see [specs](/test) for more information.
+Please see [tests](/test) for more information.
 
 ## Usage
 
