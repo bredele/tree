@@ -1,0 +1,29 @@
+{
+  "name": "tree",
+  "version": "0.0.0",
+  "description": "Tree reflection",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/tree.git"
+  },
+  "keywords": [
+    "tree",
+    "ast"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/tree/issues"
+  },
+  "homepage": "https://github.com/bredele/tree#readme",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
